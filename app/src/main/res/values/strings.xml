@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Single Screen App</string>
+    <string name="designation">UX Design Agency</string>
+    <string name="location">Pune, Maharashtra, India</string>
+    <string name="portfolio_button">Portfolio</string>
+    <string name="company_details">Company Details</string>
+    <string name="website_value">https://nitinbobade.github.io</string>
+    <string name="website_header">Website</string>
+    <string name="description_value">UI/UX, Wireframe, Prototype, IxD</string>
+    <string name="description_header">Description</string>
+    <string name="mail_value">nitinbobade@outlook.com</string>
+    <string name="mail_header">Email</string>
+    <string name="phone_value">8149957312</string>
+    <string name="phone_header">Phone</string>
+    <string name="background_image">background_image</string>
+    <string name="profile_picture">profile_picture</string>
+    <string name="company_logo">company_logo</string>
+    <string name="phone_icon">phone_icon</string>
+    <string name="mail_icon">mail_icon</string>
+    <string name="description_icon">description_icon</string>
+    <string name="website_icon">website_icon</string>
+</resources>
